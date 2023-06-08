@@ -1,0 +1,1 @@
+This module depends on the crm, sales_team and base module. So make sure to have it in your addons list.
